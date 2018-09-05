@@ -3,4 +3,4 @@
 ### My favorite things about CS193
 - Uh
 - I don't hate you guys we just haven't really done a lot yet
-- Excited to solidy practical skills for CS :)
+- Excited to solidify practical skills for CS :)
